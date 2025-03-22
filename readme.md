@@ -12,9 +12,7 @@
   </p>
   
   <p>
-    <strong>FDA Approved</strong> • 
     <strong>Make in India</strong> • 
-    <strong>NASA Tech Transfer</strong> • 
     <strong>CE Certified</strong>
   </p>
 </div>
@@ -46,7 +44,7 @@ Our proprietary system synchronizes **binaural beats**, **PEMF therapy**, **vibr
 Precision-calibrated audio frequencies that guide brainwave activity toward specific states associated with relaxation, focus, or meditation.
 
 ### PEMF (Pulsed Electromagnetic Field) Therapy
-Low-frequency electromagnetic fields that support cellular function and wellbeing, based on technology developed through NASA research programs.
+Low-frequency electromagnetic fields that support cellular function and wellbeing, based on technology developed through NASA research programs. The PEMF technology used in Vibrasonix is FDA-approved for wellness applications.
 
 ### Vibroacoustic Therapy
 Physical vibrations synchronized with audio frequencies to reduce muscle tension and enhance the embodied experience of sound therapy.
@@ -100,16 +98,8 @@ This repository contains comprehensive documentation for the Vibrasonix platform
 <div align="center">
   <table>
     <tr>
-      <td>🏅</td>
-      <td><strong>FDA Approved</strong><br>Vibrasonix PEMF technology is FDA-approved for wellness applications</td>
-    </tr>
-    <tr>
       <td>🇮🇳</td>
       <td><strong>Make in India</strong><br>Proudly designed and manufactured in India with global technology standards</td>
-    </tr>
-    <tr>
-      <td>🚀</td>
-      <td><strong>NASA Technology Transfer</strong><br>PEMF technology developed from NASA research for astronaut wellness</td>
     </tr>
     <tr>
       <td>🇪🇺</td>
